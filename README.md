@@ -1,0 +1,2 @@
+# HelloOpenShift
+Just testing
